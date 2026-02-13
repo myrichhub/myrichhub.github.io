@@ -1,3 +1,5 @@
-baseURL = 'https://example.org/'
+#baseURL = 'https://example.org/'
+baseURL = 'https://myrichhub.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Dina Site'
+theme = 'PaperMod'
